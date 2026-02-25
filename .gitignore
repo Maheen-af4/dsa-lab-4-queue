@@ -1,0 +1,31 @@
+# OS junk
+Thumbs.db
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Build artifacts
+*.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.a
+*.lib
+*.dll
+*.so
+*.dylib
+
+# Temp / backups
+*.log
+*.tmp
+*.bak
+*.swp
+~$*
+
+# Build directories
+/build/
+/bin/
+/dist/
